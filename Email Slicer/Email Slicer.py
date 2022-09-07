@@ -24,8 +24,8 @@ def reset_all():
 
 
 #Labels
-label1 = tk.Label(text='Welcome',font=(25))
-label2 = tk.Label(text='This app is used to slice a email into email & domain',font=(12))
+label1 = tk.Label(text='',background="#add8e6",font=(25))
+label2 = tk.Label(text='',background="#add8e6",font=(12))
 label3 = tk.Label(text='Enter you email here',font=(12))
 empty_label1=tk.Label(background="#add8e6")
 empty_label2=tk.Label(background="#add8e6")
